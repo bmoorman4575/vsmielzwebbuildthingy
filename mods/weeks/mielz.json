@@ -1,0 +1,40 @@
+{
+	"storyName": "the mielz",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "philly",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"songs": [
+		[
+			"Dash",
+			"icon-mielz",
+			[
+				255,
+				180,
+				60
+			]
+		],
+[
+			"Spinned",
+			"icon-sonk",
+			[
+				0,
+				145,
+				255
+			]
+		]
+	],
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"hideStoryMode": false,
+	"weekName": "the mielz"
+}

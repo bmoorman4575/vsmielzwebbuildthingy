@@ -1,0 +1,6 @@
+Value 1:
+"1" make text.
+"2" delete text.
+
+Value 2:
+Text.

@@ -1,0 +1,31 @@
+{
+	"storyName": "Encore!",
+	"difficulties": "Encore",
+	"hideFreeplay": true,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		145,
+		145,
+		145
+	],
+	"weekBefore": "mielzbonus",
+	"startUnlocked": false,
+	"weekCharacters": [
+		"",
+		"bf",
+		""
+	],
+	"songs": [
+		[
+			"Dash-Encore",
+			"icon-encoremielz",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Encore"
+}
