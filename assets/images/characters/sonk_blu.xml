@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Sonk.png"><SubTexture name="Sonk Idle0000" x="0" y="27" width="21" height="26" frameX="-5" frameY="-5" frameWidth="31" frameHeight="31" />
+<SubTexture name="Sonk Idle0001" x="0" y="0" width="21" height="27" frameX="-5" frameY="-4" frameWidth="31" frameHeight="31" />
+<SubTexture name="Sonk Idle0002" x="85" y="0" width="21" height="25" frameX="-5" frameY="-6" frameWidth="31" frameHeight="31" />
+<SubTexture name="Sonk Idle0003" x="0" y="27" width="21" height="26" frameX="-5" frameY="-5" frameWidth="31" frameHeight="31" />
+<SubTexture name="Sonk Note DOWN0000" x="85" y="50" width="21" height="24" frameX="-5" frameY="-7" frameWidth="31" frameHeight="31" />
+<SubTexture name="Sonk Note DOWN0001" x="85" y="25" width="21" height="25" frameX="-5" frameY="-6" frameWidth="31" frameHeight="31" />
+<SubTexture name="Sonk Note LEFT0000" x="21" y="27" width="23" height="26" frameX="-3" frameY="-5" frameWidth="31" frameHeight="31" />
+<SubTexture name="Sonk Note LEFT0001" x="63" y="0" width="22" height="26" frameX="-4" frameY="-5" frameWidth="31" frameHeight="31" />
+<SubTexture name="Sonk NOTE RIGHT0000" x="0" y="53" width="23" height="26" frameX="-5" frameY="-5" frameWidth="31" frameHeight="31" />
+<SubTexture name="Sonk NOTE RIGHT0001" x="63" y="26" width="22" height="26" frameX="-5" frameY="-5" frameWidth="31" frameHeight="31" />
+<SubTexture name="Sonk Note UP0000" x="21" y="0" width="19" height="27" frameX="-6" frameY="-4" frameWidth="31" frameHeight="31" />
+<SubTexture name="Sonk Note UP0001" x="23" y="53" width="21" height="26" frameX="-5" frameY="-5" frameWidth="31" frameHeight="31" />
+<SubTexture name="Sonk Up Alt0000" x="40" y="0" width="23" height="27" frameX="-4" frameY="-4" frameWidth="31" frameHeight="31" />
+<SubTexture name="Sonk Up Alt0001" x="44" y="53" width="21" height="26" frameX="-5" frameY="-5" frameWidth="31" frameHeight="31" />
+</TextureAtlas>

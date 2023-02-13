@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 10,
+			"anim": "idle",
+			"indices": [],
+			"name": "Sonk Idle"
+		},
+		{
+			"offsets": [
+				-10,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Sonk Note LEFT"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Sonk Note UP"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Sonk Note DOWN"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Sonk NOTE RIGHT"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/sonk",
+	"position": [
+		230,
+		210
+	],
+	"healthicon": "icon-sonk",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		120,
+		195
+	],
+	"camera_position": [
+		-290,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 10
+}

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 10,
+			"name": "Mielz Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 12,
+			"name": "Mielz Note LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				0
+			],
+			"anim": "singUP",
+			"fps": 12,
+			"name": "Mielz Note UP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 12,
+			"name": "Mielz Note DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 12,
+			"name": "Mielz NOTE RIGHT",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/mielz encore",
+	"position": [
+		230,
+		210
+	],
+	"healthicon": "icon-encoremielz",
+	"flip_x": false,
+	"healthbar_colors": [
+		140,
+		140,
+		140
+	],
+	"camera_position": [
+		-290,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 10
+}
